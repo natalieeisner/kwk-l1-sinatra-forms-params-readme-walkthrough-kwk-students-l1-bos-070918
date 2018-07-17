@@ -10,7 +10,7 @@ end
 
 
 post '/food' do
-  params.to_s
+  params.to_s 
 end
 
 
