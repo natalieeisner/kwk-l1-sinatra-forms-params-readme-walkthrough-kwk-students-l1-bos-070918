@@ -8,6 +8,9 @@ end
     erb :food_form
   end
 
-  
+
+post '/food' do
+end
+
 
 end
